@@ -1,0 +1,4 @@
+com\qa\main\Main.class
+com\qa\service\Service.class
+util\JSonConverter.class
+com\qa\model\Movie.class
